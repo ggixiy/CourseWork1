@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\VSTUDIA\\AlmoustCourseWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAF5E2E-9980-4E9B-90DE-A91D9E698F46}|AlmoustCourseWork.csproj|d:\\projects\\vstudia\\almoustcoursework\\solver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAF5E2E-9980-4E9B-90DE-A91D9E698F46}|AlmoustCourseWork.csproj|solutionrelative:solver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAF5E2E-9980-4E9B-90DE-A91D9E698F46}|AlmoustCourseWork.csproj|D:\\projects\\VSTUDIA\\AlmoustCourseWork\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAF5E2E-9980-4E9B-90DE-A91D9E698F46}|AlmoustCourseWork.csproj|solutionrelative:node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAF5E2E-9980-4E9B-90DE-A91D9E698F46}|AlmoustCourseWork.csproj|D:\\projects\\VSTUDIA\\AlmoustCourseWork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAF5E2E-9980-4E9B-90DE-A91D9E698F46}|AlmoustCourseWork.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAF5E2E-9980-4E9B-90DE-A91D9E698F46}|AlmoustCourseWork.csproj|D:\\projects\\VSTUDIA\\AlmoustCourseWork\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAF5E2E-9980-4E9B-90DE-A91D9E698F46}|AlmoustCourseWork.csproj|solutionrelative:priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAF5E2E-9980-4E9B-90DE-A91D9E698F46}|AlmoustCourseWork.csproj|D:\\projects\\VSTUDIA\\AlmoustCourseWork\\eightqueensproblemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAF5E2E-9980-4E9B-90DE-A91D9E698F46}|AlmoustCourseWork.csproj|solutionrelative:eightqueensproblemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAF5E2E-9980-4E9B-90DE-A91D9E698F46}|AlmoustCourseWork.csproj|D:\\projects\\VSTUDIA\\AlmoustCourseWork\\chessboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAF5E2E-9980-4E9B-90DE-A91D9E698F46}|AlmoustCourseWork.csproj|solutionrelative:chessboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAF5E2E-9980-4E9B-90DE-A91D9E698F46}|AlmoustCourseWork.csproj|D:\\projects\\VSTUDIA\\AlmoustCourseWork\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CAF5E2E-9980-4E9B-90DE-A91D9E698F46}|AlmoustCourseWork.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChessBoard.cs",
+              "DocumentMoniker": "D:\\projects\\VSTUDIA\\AlmoustCourseWork\\ChessBoard.cs",
+              "RelativeDocumentMoniker": "ChessBoard.cs",
+              "ToolTip": "D:\\projects\\VSTUDIA\\AlmoustCourseWork\\ChessBoard.cs",
+              "RelativeToolTip": "ChessBoard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:10:14.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EightQueensProblemForm.cs",
+              "DocumentMoniker": "D:\\projects\\VSTUDIA\\AlmoustCourseWork\\EightQueensProblemForm.cs",
+              "RelativeDocumentMoniker": "EightQueensProblemForm.cs",
+              "ToolTip": "D:\\projects\\VSTUDIA\\AlmoustCourseWork\\EightQueensProblemForm.cs",
+              "RelativeToolTip": "EightQueensProblemForm.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAAAL4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:09:10.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solver.cs",
+              "DocumentMoniker": "D:\\projects\\VSTUDIA\\AlmoustCourseWork\\Solver.cs",
+              "RelativeDocumentMoniker": "Solver.cs",
+              "ToolTip": "D:\\projects\\VSTUDIA\\AlmoustCourseWork\\Solver.cs",
+              "RelativeToolTip": "Solver.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAUwJ0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:05:49.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PriorityQueue.cs",
+              "DocumentMoniker": "D:\\projects\\VSTUDIA\\AlmoustCourseWork\\PriorityQueue.cs",
+              "RelativeDocumentMoniker": "PriorityQueue.cs",
+              "ToolTip": "D:\\projects\\VSTUDIA\\AlmoustCourseWork\\PriorityQueue.cs",
+              "RelativeToolTip": "PriorityQueue.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:07:50.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\VSTUDIA\\AlmoustCourseWork\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\projects\\VSTUDIA\\AlmoustCourseWork\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:36:51.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\projects\\VSTUDIA\\AlmoustCourseWork\\Node.cs",
+              "RelativeDocumentMoniker": "Node.cs",
+              "ToolTip": "D:\\projects\\VSTUDIA\\AlmoustCourseWork\\Node.cs",
+              "RelativeToolTip": "Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:08:24.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\projects\\VSTUDIA\\AlmoustCourseWork\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\projects\\VSTUDIA\\AlmoustCourseWork\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:05:34.138Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

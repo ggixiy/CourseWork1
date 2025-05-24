@@ -1,0 +1,9 @@
+D:\projects\VSTUDIA\AlmoustCourseWork\obj\Debug\AlmoustCourseWork.csproj.AssemblyReference.cache
+D:\projects\VSTUDIA\AlmoustCourseWork\obj\Debug\AlmoustCourseWork.Properties.Resources.resources
+D:\projects\VSTUDIA\AlmoustCourseWork\obj\Debug\AlmoustCourseWork.csproj.GenerateResource.cache
+D:\projects\VSTUDIA\AlmoustCourseWork\obj\Debug\AlmoustCourseWork.csproj.CoreCompileInputs.cache
+D:\projects\VSTUDIA\AlmoustCourseWork\bin\Debug\AlmoustCourseWork.exe.config
+D:\projects\VSTUDIA\AlmoustCourseWork\bin\Debug\AlmoustCourseWork.exe
+D:\projects\VSTUDIA\AlmoustCourseWork\bin\Debug\AlmoustCourseWork.pdb
+D:\projects\VSTUDIA\AlmoustCourseWork\obj\Debug\AlmoustCourseWork.exe
+D:\projects\VSTUDIA\AlmoustCourseWork\obj\Debug\AlmoustCourseWork.pdb
