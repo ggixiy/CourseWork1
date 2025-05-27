@@ -216,6 +216,7 @@ namespace AlmoustCourseWork
         private static bool IsSafe(int[] state, int row, int col)
         {
             for (int i = 0; i < row; i++)
+                if (state[i] == -1) continue; //Пропускаємо незаповнені
                 if (state[i] == col || Math.Abs(state[i] - col) == row - i)
                     return false;
             return true;
